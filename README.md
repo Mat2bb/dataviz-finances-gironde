@@ -16,7 +16,7 @@ Minima:
 * Chrome
 * navigateurs mobiles
 
-
+#
 ## Installer le projet
 
 L'installation de [`node@>=8`][nodejs] est nécessaire avant de continuer.
